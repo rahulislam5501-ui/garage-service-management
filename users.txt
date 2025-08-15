@@ -1,0 +1,9 @@
+USR0001,tonmoy,8<<88,Admin
+USR0002,abcd,4567,Admin
+U0003,aaa,456,Admin
+U0004,bbb,eee,SeniorMechanic
+U0005,ccc,fff,JuniorMechanic
+U0006,ddd,ggg,Customer
+U0007,cu,f,Customer
+U0008,cus,fxv,Admin
+U0009,a,d,Customer
